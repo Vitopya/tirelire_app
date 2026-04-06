@@ -1,24 +1,28 @@
-This is free and unencumbered software released into the public domain.
+Tirelire - logiciel proprietaire
+Copyright (c) Joseph Deffayet. Tous droits reserves.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+1. Objet
+   Ce depot peut contenir des installateurs, metadonnees de mise a jour et textes
+   d'accompagnement lies a l'application Tirelire. L'ensemble reste la propriete
+   exclusive de Joseph Deffayet.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+2. Droits concedes
+   Aucun droit de propriete intellectuelle n'est transfere par le simple
+   telechargement des fichiers mis a disposition dans les releases GitHub.
+   L'utilisation du logiciel Tirelire est limitee a un usage strictement
+   personnel et non exclusif, dans le cadre defini par l'auteur dans les
+   messages accompagnant les releases, sauf accord ecrit contraire.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+3. Interdictions
+   Sauf autorisation ecrite prealable : interdiction de copier, modifier,
+   decompiler, distribuer, louer, vendre ou exploiter commercialement le logiciel
+   ou ses elements (binaires, ressources, documentation associee).
 
-For more information, please refer to <https://unlicense.org>
+4. Absence de garantie
+   LE LOGICIEL EST FOURNI "EN L'ETAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
+   IMPLICITE, NOTAMMENT DE QUALITE MARCHANDE OU D'ADEQUATION A UN USAGE
+   PARTICULIER, DANS TOUTE LA MESURE AUTORISEE PAR LA LOI APPLICABLE.
+
+5. Contact
+   Pour toute demande de licence, partenariat ou autorisation : s'adresser a
+   l'auteur par les canaux qu'il aura indiques aux destinataires autorises.
