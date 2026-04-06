@@ -1,58 +1,58 @@
 # Tirelire
 
-Depot public **dedie a la distribution** de l'application de bureau **Tirelire** (suivi budgetaire personnel, donnees stockees localement sur votre machine).
+Dépot public **dédié à la distribution** de l'application bureau **Tirelire** (suivi budgetaire personnel, données stockées localement sur votre machine).
 
-Ce depot **ne contient pas le code source**. Les installateurs et les fichiers associes aux mises a jour automatiques sont publies dans l'onglet **Releases**.
+Ce dépot **ne contient pas le code source**. Les installateurs et les fichiers associés aux mises à jour automatiques sont publies dans l'onglet **Releases**.
 
 ---
 
-## Telechargement
+## Téléchargement de l'application
 
-**Derniere version publiee :**
+**Derniere version publiée :**
 
 [https://github.com/Vitopya/tirelire_app/releases/latest](https://github.com/Vitopya/tirelire_app/releases/latest)
 
-Sur la page de release, ouvrez la section **Assets** et telechargez le fichier adapte a votre systeme :
+Sur la page de release, ouvrez la section **Assets** et téléchargez le fichier adapté à votre système :
 
 | Plateforme | Fichier type |
 |------------|----------------|
 | Windows (64 bits) | `Tirelire-Setup-*.exe` |
 | macOS | `Tirelire-*-*.dmg` (recommande) ou `Tirelire-*-*.zip` |
 
-Choisissez l'architecture qui correspond a votre Mac (**x64** pour Intel, **arm64** pour Apple Silicon) si plusieurs paquets sont proposes.
+Choisissez l'architecture qui correspond à votre Mac (**x64** pour Intel, **arm64** pour Apple Silicon) si plusieurs paquets sont proposées.
 
 ---
 
-## Installation (resume)
+## Installation (en bref)
 
 ### Windows
 
-1. Executez l'installateur `.exe` et suivez les etapes.
-2. Si **SmartScreen** affiche un avertissement : **Informations supplementaires** puis **Executer quand meme** (l'application peut ne pas etre signee numeriquement par un certificat payant).
-3. Lancez **Tirelire** depuis le menu Demarrer ou le raccourci.
+1. Executez l'installateur `.exe` et suivez les étapes.
+2. Si **SmartScreen** affiche un avertissement : **Informations supplémentaires** puis **Executer quand meme** (l'application peut ne pas etre signee numeriquement par un certificat payant).
+3. Lancez **Tirelire** depuis le menu Démarrer ou le raccourci.
 
 ### macOS
 
 1. Ouvrez le fichier `.dmg`, glissez **Tirelire** dans **Applications**.
 2. A la premiere ouverture, si macOS bloque l'app : **Reglages** - **Confidentialite et securite** - autorisez l'ouverture, ou clic droit sur l'app - **Ouvrir**.
 
-Le detail des etapes et les informations produit figurent aussi dans la **description de chaque release** sur GitHub.
+Le détail des étapes et les informations produit figurent aussi dans la **description de chaque release** sur GitHub.
 
 ---
 
-## Donnees personnelles
+## Données personnelles
 
-Tirelire utilise une base **SQLite locale**. Vos donnees ne sont pas envoyees sur ce depot GitHub. Pensez a utiliser la fonction de **sauvegarde** dans l'application avant un changement de machine ou une reinstallation.
+Tirelire utilise une base **SQLite locale**. Vos données ne sont pas envoyées sur ce dépot GitHub ni nulle part ailleurs. Pensez à utiliser la fonction de **sauvegarde** dans l'application avant un changement de machine ou une réinstallation. Même si l'accent est mis sur la qualité et la résilience du système de mise à jour de Tirelire, il est recommandé de ponctuellement effectuer une sauvegarde de vos données en locale pour prévenir tout risque.
 
 ---
 
-## Propriete intellectuelle
+## Propriété intellectuelle
 
-**Tirelire** est une creation de **Joseph Deffayet** (designer et developpeur).
+**Tirelire** est une creation de **Joseph Deffayet** (designer et vibecodeur).
 
-**Tous droits reserves.** Le logiciel, son interface et la documentation diffusee avec les installateurs sont proteges. Toute reproduction, redistribution ou usage commercial sans **autorisation ecrite prealable** est interdite.
+**Tous droits réservés.** Le logiciel, son interface et la documentation diffusée avec les installateurs sont protégés. Toute reproduction, redistribution ou usage commercial sans **autorisation ecrite préalable** est interdite.
 
-Les conditions detaillees figurent dans le fichier [`LICENSE`](LICENSE) de ce depot.
+Les conditions détaillees figurent dans le fichier [`LICENSE`](LICENSE) de ce dépot.
 
 ---
 
