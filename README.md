@@ -48,7 +48,7 @@ Tirelire utilise une base **SQLite locale**. Vos données ne sont pas envoyées 
 
 ## Propriété intellectuelle
 
-**Tirelire** est une creation de **Joseph Deffayet** (designer et vibecodeur).
+**Tirelire** est une creation de **Joseph Deffayet** (product designer).
 
 **Tous droits réservés.** Le logiciel, son interface et la documentation diffusée avec les installateurs sont protégés. Toute reproduction, redistribution ou usage commercial sans **autorisation ecrite préalable** est interdite.
 
